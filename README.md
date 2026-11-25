@@ -1,0 +1,1 @@
+# gates-industrial-lbo-model
